@@ -18,8 +18,8 @@ body{
 }
 
  .button1  {
-    width:200px;
-    font-size:24px;
+    width:232px;
+    font-size:26px;
     font-weight:bold;
     text-decoration:none;
     display:block;
@@ -33,8 +33,8 @@ body{
 
 
  .button2  {
-    width:200px;
-    font-size:24px;
+    width:210px;
+    font-size:26px;
     font-weight:bold;
     text-decoration:none;
     display:block;
@@ -99,6 +99,12 @@ body{
 }
 .span
 
+div#box0  {float: top;
+  width:181px; 
+  padding-bottom: 0px; 
+  margin-top:2px; 
+  margin-bottom:2px; 
+  border:solid 1px #6699ff; }
 div#box1  {float: top;
   width:181px; 
   padding-top: 0px; 
