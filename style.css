@@ -10,8 +10,8 @@ body{
   /*フォントの名前*/
   font-family: 'マキナス 4 Square', 'TA-方眼K500', '851ゴチカクット', 'sans-serif', 'Hiragino Sans GB W3';
   /*フォントファイルへのパス（複数指定の場合、上から順に読み込まれる）*/
-  src: url("/assets/font/Makinas-4-Square_subset.woff2") format("woff2"),
-       url("/assets/font/Makinas-4-Square_subset.woff") format("woff");
+  src: url("https://iamuu-n.github.io/Makinas-4-Square_subset.woff2") format("woff2"),
+       url("https://iamuu-n.github.io/Makinas-4-Square_subset.woff") format("woff");
 }
 .mamelonClass{
   font-family: 'マキナス 4 Square', 'TA-方眼K500', '851ゴチカクット', 'sans-serif', 'Hiragino Sans GB W3';
