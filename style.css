@@ -18,7 +18,7 @@ body{
 }
 
  .button1  {
-    width:232px;
+    width:33vw;
     font-size:26px;
     font-weight:bold;
     text-decoration:none;
@@ -35,7 +35,7 @@ body{
 
 
  .button2  {
-    width:210px;
+    width:29vw;
     font-size:26px;
     font-weight:bold;
     text-decoration:none;
@@ -51,7 +51,7 @@ body{
 }
 
  .button3  {
-    width:150px;
+    width:24vw;
     font-size:26px;
     font-weight:bold;
     text-decoration:none;
@@ -98,7 +98,7 @@ body{
 }
 
 .box0 {
-	font-size:65px;
+	font-size:13vw;
     font-weight:bold;
 	font-family: 'マキナス 4 Square', 'TA-方眼K500', '851ゴチカクット', 'sans-serif', 'Hiragino Sans GB W3';
     padding: 0px 0px 0px 0px;
@@ -107,7 +107,7 @@ body{
     color: #2c2c2f;
     background: #37A3B8;/*背景色*/
 	border-radius:5px;
-	margin-top: 25vw;
+	margin-top: 1.7em;
 }
 .box1 {
 	font-size:20px;
