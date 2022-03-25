@@ -71,9 +71,26 @@ text-decoration:underline;
 	display:inline-block;/*コレ*/
 }
 
-.button1, .button2, .button3 {
+.button4  {
+    width:24vw;
+    font-size:26px;
+    font-weight:bold;
+    text-decoration:none;
+    display:block;
+    text-align:center;
+    padding:8px 0 10px;
+    color:#37A3B8;
+    background-color: #FCFBFC;
+	border-radius:5px;
+	margin-left:5px;
+	margin-top:5px;  
+	display:inline-block;/*コレ*/
+}
+
+.button1, .button2, .button3,.button4 {
   float: left;
  }
+
 
 
 .buttonR {
