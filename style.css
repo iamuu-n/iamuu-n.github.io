@@ -110,6 +110,22 @@ text-decoration:underline;
 	display:inline-block;/*コレ*/
 }
 
+.buttonS {
+    width:400px;
+    font-size:1em;
+    font-weight:bold;
+    text-decoration:none;
+    display:block;
+    text-align:left;
+    padding:0.5em ;
+    color:#FCFBFC;
+    background-color: #37A3B8;
+	border-radius:5px;
+	border-color: #5CA7B3;
+	margin-left:0px;
+	display:inline-block;/*コレ*/
+}
+
 
 .title{
     width:200px;
