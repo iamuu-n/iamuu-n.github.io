@@ -364,7 +364,8 @@ opacity: 0;
 
 /*画像の横幅を100%にしてレスポンシブ化*/
 img{
-  width: 300%;
+  width: 100%;
+  margin: 1em 0em 0.5em 0em ;
   height: auto;
   vertical-align: bottom;/*画像の下にできる余白を削除*/
 }
